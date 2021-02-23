@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!eluwina.db
+!eluwina.db.old
+!eluwina.fwl
+!eluwina.fwl.old
+
